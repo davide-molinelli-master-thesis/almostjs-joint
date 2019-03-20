@@ -42,3 +42,5 @@ The `createBoard` constructor function has the following options:
 [joint-link-url]: http://resources.jointjs.com/docs/jointjs/v2.1/joint.html#dia.Link
 [joint-paper-url]: http://resources.jointjs.com/docs/jointjs/v2.1/joint.html#dia.Paper
 [joint-defaultlink-url]: http://resources.jointjs.com/docs/jointjs/v2.1/joint.html#dia.Paper.prototype.options.defaultLink
+
+This particular fork aimed at introduce Alexa voice assistant feautures.
