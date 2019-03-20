@@ -6,17 +6,17 @@
   "author": "Carlo Bernaschina (GitHub: B3rn475)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/molinellidavide/almostjs-joint.git"
+    "url": "git+https://github.com/B3rn475/almostjs-joint.git"
   },
   "license": "MIT",
   "licenses": {
     "type": "MIT",
-    "url": "https://github.com/molinellidavide/almostjs-joint/raw/master/LICENSE"
+    "url": "http://github.com/B3rn475/almostjs-joint/raw/master/LICENSE"
   },
   "bugs": {
-    "url": "https://github.com/molinellidavide/almostjs-joint/issues"
+    "url": "https://github.com/B3rn475/almostjs-joint/issues"
   },
-  "homepage": "https://github.com/molinellidavide/almostjs-joint#readme",
+  "homepage": "https://github.com/B3rn475/almostjs-joint#readme",
   "devDependencies": {
     "browserify": "^16.1.1",
     "exposify": "^0.5.0",
@@ -45,7 +45,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "gulp",
-    "prepublish": "gulp",
-    
+    "prepublish": "gulp"
   }
 }
