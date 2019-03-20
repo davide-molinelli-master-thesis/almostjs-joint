@@ -6,7 +6,7 @@
   "author": "Carlo Bernaschina (GitHub: B3rn475)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/davide-molinelli-master-thesis/almostjs-joint.git"
+    "url": "git+https://github.com/davide-molinelli-master-thesis/almostjs-joint.git"
   },
   "license": "MIT",
   "licenses": {
