@@ -6,17 +6,17 @@
   "author": "Carlo Bernaschina (GitHub: B3rn475)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davide-molinelli-master-thesis/almostjs-joint.git"
+    "url": "git+https://github.com/molinellidavide/almostjs-joint.git"
   },
   "license": "MIT",
   "licenses": {
     "type": "MIT",
-    "url": "https://github.com/davide-molinelli-master-thesis/almostjs-joint/raw/master/LICENSE"
+    "url": "https://github.com/molinellidavide/almostjs-joint/raw/master/LICENSE"
   },
   "bugs": {
-    "url": "https://github.com/davide-molinelli-master-thesis/almostjs-joint/issues"
+    "url": "https://github.com/molinellidavide/almostjs-joint/issues"
   },
-  "homepage": "https://github.com/davide-molinelli-master-thesis/almostjs-joint#readme",
+  "homepage": "https://github.com/molinellidavide/almostjs-joint#readme",
   "devDependencies": {
     "browserify": "^16.1.1",
     "exposify": "^0.5.0",
